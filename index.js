@@ -45,7 +45,7 @@ app.get("/posts" ,(req , res) => {
 });
 
 app.get("/" ,(req , res) => {
-    res.send("hi");
+    res.send("/posts");
 });
 
 app.get("/posts/new", (req ,res) => {
