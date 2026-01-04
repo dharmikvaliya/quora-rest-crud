@@ -1,7 +1,11 @@
 # Quora REST CRUD Application 🚀
 
 A simple **Quora-like CRUD web application** built using **Node.js, Express, and EJS**.  
-This project demonstrates **RESTful routing**, **CRUD operations**, and **server-side rendering** using EJS templates.
+This project demonstrates **RESTful routing**, **CRUD operations**, and **server-side rendering**.  
+The application is deployed online using **Render**.
+
+🔗 **Live Demo**  
+https://quora-rest-crud.onrender.com/posts
 
 ---
 
@@ -13,7 +17,7 @@ This project demonstrates **RESTful routing**, **CRUD operations**, and **server
 - Edit posts
 - Delete posts
 - RESTful routing
-- Clean and responsive UI
+- Deployed online
 
 ---
 
@@ -24,6 +28,7 @@ This project demonstrates **RESTful routing**, **CRUD operations**, and **server
 - **Styling**: CSS
 - **Tools**: UUID, method-override
 - **Version Control**: Git & GitHub
+- **Deployment**: Render
 
 ---
 
